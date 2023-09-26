@@ -37,7 +37,7 @@ export const Room = () => {
 
       sharedLinks: [
         {
-          name: "Copy link ",
+          name: "Copy link",
           url:
             window.location.protocol +
             "//" +
