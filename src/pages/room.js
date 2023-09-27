@@ -29,7 +29,7 @@ export const Room = () => {
       //   randomID(5),
       //   randomID(5)
       Date.now().toString(),
-      'Ajmal Ali '
+      'Ajmal Ali'
     );
     const zp = ZegoUIKitPrebuilt.create(kitToken);
     zp.joinRoom({
